@@ -1,0 +1,15 @@
+F:\C# pra\Task by Shoib Bhai\palindrome word task\palindrome word task\bin\Debug\net7.0\palindrome word task.exe
+F:\C# pra\Task by Shoib Bhai\palindrome word task\palindrome word task\bin\Debug\net7.0\palindrome word task.deps.json
+F:\C# pra\Task by Shoib Bhai\palindrome word task\palindrome word task\bin\Debug\net7.0\palindrome word task.runtimeconfig.json
+F:\C# pra\Task by Shoib Bhai\palindrome word task\palindrome word task\bin\Debug\net7.0\palindrome word task.dll
+F:\C# pra\Task by Shoib Bhai\palindrome word task\palindrome word task\bin\Debug\net7.0\palindrome word task.pdb
+F:\C# pra\Task by Shoib Bhai\palindrome word task\palindrome word task\obj\Debug\net7.0\palindrome word task.csproj.AssemblyReference.cache
+F:\C# pra\Task by Shoib Bhai\palindrome word task\palindrome word task\obj\Debug\net7.0\palindrome word task.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# pra\Task by Shoib Bhai\palindrome word task\palindrome word task\obj\Debug\net7.0\palindrome word task.AssemblyInfoInputs.cache
+F:\C# pra\Task by Shoib Bhai\palindrome word task\palindrome word task\obj\Debug\net7.0\palindrome word task.AssemblyInfo.cs
+F:\C# pra\Task by Shoib Bhai\palindrome word task\palindrome word task\obj\Debug\net7.0\palindrome word task.csproj.CoreCompileInputs.cache
+F:\C# pra\Task by Shoib Bhai\palindrome word task\palindrome word task\obj\Debug\net7.0\palindrome word task.dll
+F:\C# pra\Task by Shoib Bhai\palindrome word task\palindrome word task\obj\Debug\net7.0\refint\palindrome word task.dll
+F:\C# pra\Task by Shoib Bhai\palindrome word task\palindrome word task\obj\Debug\net7.0\palindrome word task.pdb
+F:\C# pra\Task by Shoib Bhai\palindrome word task\palindrome word task\obj\Debug\net7.0\palindrome word task.genruntimeconfig.cache
+F:\C# pra\Task by Shoib Bhai\palindrome word task\palindrome word task\obj\Debug\net7.0\ref\palindrome word task.dll
